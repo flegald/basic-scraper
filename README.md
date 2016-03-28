@@ -1,1 +1,1 @@
-A Simple web scraper that returns seattle restauraunt data.
+A Simple web scraper that returns seattle restauraunt data. Primarily inspection data.
